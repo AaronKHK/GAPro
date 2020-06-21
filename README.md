@@ -1,5 +1,5 @@
 # GAPro
-GA project
+GA project </br>
 Project 1 - Creating game (Pokemon Go) character dictionary 
 Project 2 - EDA on SAT score data and EDA on "drug use by age" data
 Project 3 - Regression and Classification with Housing Data
